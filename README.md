@@ -1,1 +1,23 @@
-# azure-python-update-tag-key
+# Azure bulk update resource tag keys
+
+<img src="https://img.shields.io/badge/made%20with-python-blue.svg" alt="Made with python">
+
+
+## Software Dependencies
+
+1. python3
+2. pip3
+3. pipenv
+
+
+## Script Dependencies
+
+1. A valid service principal with contributor over subscriptions
+
+
+## Install instructions
+
+```bash
+pipenv install
+pipenv run python3 main.py
+```
